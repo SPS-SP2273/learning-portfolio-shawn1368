@@ -42,3 +42,14 @@ print(zero_array)
 # %%
 rep_array = np.tile([[4, 3], [2, 1]], (2, 3))
 print(rep_array)
+# %%
+twod_array_1 = np.arange(1, 16).reshape(3,5).T
+two_four_array = twod_array_1[(2, 4), :]
+# %%
+a = np.arange(25).reshape(5, 5)
+b = np.array([1., 5, 10, 15, 20])
+print(a / b[:, np.newaxis])
+# %%
+rand_array = np.random.random_sample((10, 3))
+closest_index = np.argsort(rand_array)
+# closest_values = rand_array[np.arange(10), closest_index]
