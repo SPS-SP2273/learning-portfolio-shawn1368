@@ -3,6 +3,8 @@
 import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
+import pylustrator
+pylustrator.start()
 # %%
 # Contour
 x = np.linspace(-4, 4, 9)
