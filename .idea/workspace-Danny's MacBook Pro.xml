@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9f7c75d-ec39-46d4-935c-113c965ac140" name="Changes" comment="More Sympy">
+      <change afterPath="$PROJECT_DIR$/Yuan Zhe's Problems/problem_set_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files, folders and os/files,_folders_and_os_(need).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/files, folders and os/files,_folders_and_os_(need).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/others/sympy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/others/sympy.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="634fa2e6-d94a-4636-a6c6-219722bff102" />
+        <option name="url" value="https://github.com/SPS-SP2273/learning-portfolio-shawn1368.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2KBjxqlRLnDvcQ8YhIdVmOgdscg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Jupyter Settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="learning-portfolio-shawn1368" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9f7c75d-ec39-46d4-935c-113c965ac140" name="Changes" comment="" />
+      <created>1673455120392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673455120392</updated>
+      <workItem from="1673455123476" duration="363000" />
+      <workItem from="1673455647707" duration="233000" />
+      <workItem from="1673521041081" duration="139000" />
+      <workItem from="1673521195631" duration="3268000" />
+      <workItem from="1673567956560" duration="41000" />
+      <workItem from="1673665588516" duration="757000" />
+      <workItem from="1673666893405" duration="3026000" />
+      <workItem from="1673673652919" duration="4813000" />
+      <workItem from="1673711972451" duration="1063000" />
+      <workItem from="1673784298516" duration="13339000" />
+      <workItem from="1673801709400" duration="1901000" />
+      <workItem from="1673914183161" duration="4308000" />
+      <workItem from="1673918525982" duration="1815000" />
+      <workItem from="1673921595925" duration="1896000" />
+      <workItem from="1673926898581" duration="1264000" />
+      <workItem from="1673928532821" duration="221000" />
+      <workItem from="1673943204390" duration="581000" />
+      <workItem from="1673948043007" duration="850000" />
+      <workItem from="1674101024622" duration="82000" />
+    </task>
+    <task id="LOCAL-00001" summary="More basics (good), basics (nice)">
+      <created>1673681890669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673681890669</updated>
+    </task>
+    <task id="LOCAL-00002" summary="More Storing Data (Good), Storing Data (Nice)">
+      <created>1673790227786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673790227786</updated>
+    </task>
+    <task id="LOCAL-00003" summary="More Loops (Need), Loops (Good)">
+      <created>1673791194607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673791194607</updated>
+    </task>
+    <task id="LOCAL-00004" summary="More Functions (Need)">
+      <created>1673792368198</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673792368198</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Functions (Good)">
+      <created>1673915908857</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673915908857</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Loops (Nice)">
+      <created>1673916138036</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673916138036</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Functions (Nice)">
+      <created>1673917206823</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673917206823</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Storing Data (Nice)">
+      <created>1673917758997</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673917758997</updated>
+    </task>
+    <task id="LOCAL-00009" summary="PyCharm Scientific Mode">
+      <created>1673921390087</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673921390087</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Just Exercises (i)">
+      <created>1673922677674</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673922677674</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initialise other files">
+      <created>1673922688311</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673922688311</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add recursive implementation of fibonacci sequence">
+      <created>1673922994790</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673922994790</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Rename numpy.py to avoid package loading issues">
+      <created>1673928676112</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673928676112</updated>
+    </task>
+    <task id="LOCAL-00014" summary="More Sympy">
+      <created>1673948091159</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673948091159</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="More basics (good), basics (nice)" />
+    <MESSAGE value="More Storing Data (Good), Storing Data (Nice)" />
+    <MESSAGE value="More Loops (Need), Loops (Good)" />
+    <MESSAGE value="More Functions (Need)" />
+    <MESSAGE value="Functions (Good)" />
+    <MESSAGE value="Loops (Nice)" />
+    <MESSAGE value="Functions (Nice)" />
+    <MESSAGE value="Storing Data (Nice)" />
+    <MESSAGE value="PyCharm Scientific Mode" />
+    <MESSAGE value="Just Exercises (i)" />
+    <MESSAGE value="Initialise other files" />
+    <MESSAGE value="Add recursive implementation of fibonacci sequence" />
+    <MESSAGE value="Rename numpy.py to avoid package loading issues" />
+    <MESSAGE value="More Sympy" />
+    <option name="LAST_COMMIT_MESSAGE" value="More Sympy" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/dannylim/Library/CloudStorage/OneDrive-Personal/Documents V2/General Documents/5. University Documents/Y1S2/SP2273/learning-portfolio-shawn1368/loops/loops_(nice).ipynb</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
